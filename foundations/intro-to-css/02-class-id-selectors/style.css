@@ -1,0 +1,20 @@
+p{
+    background-color: pink;
+    font-family: verdana, dejavu sans-serif;
+
+}
+
+.first-class{
+    font-size: 24px;
+}
+#first-id{
+    background-color: lightgreen;
+    font-size: 36px;
+    font-weight: bold;
+    color: blue;
+}
+#second-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
